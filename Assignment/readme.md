@@ -12,7 +12,7 @@ Audio Generation: The pydub library generates sound waves based on the tidal hei
 Visualization: The pygame library is used to create a graphical representation, where particles move vertically based on the tidal data.
 
 
-2. Run: assignment2_animation2.py
+2. Run: assignment2_animation_version2.py
 
 Expected Output:
 The animation showcases sine waves of tidal variations, complemented by a starry background and ripple effects.

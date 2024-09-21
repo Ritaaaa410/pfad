@@ -1,7 +1,7 @@
 pip install pandas requests numpy pydub pygame matplotlib
 
-1. Run: python tidal_audio_visualization.py
-
+1. Run: python animation_and_radio_based_on_tide.py
+   
 Expected Output:
 The audio will be played back automatically, with tones generated according to the tidal heights.
 A particle system will visualize the tidal data in real time, with particles representing different heights dynamically moving on the screen.

@@ -17,7 +17,7 @@ Visualization: The pygame library is used to create a graphical representation, 
 Expected Output:
 The animation showcases sine waves of tidal variations, complemented by a starry background and ripple effects.
 
-Overview
+Overview:
 Fetches tidal data from the web and cleans it
 Generates dynamic tidal waveforms
 Adds visual effects like starry backgrounds and ripples
